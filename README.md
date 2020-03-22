@@ -2,19 +2,24 @@
 
 ## Installation
 
+### Option 1 - Install as global npm package
+
 ```bash
 npm i -g bk-codetest-cli
 ```
 
-## Usage
+### Option 2 - Clone this repository and follow below steps:
+
+* npm i
+* npm link
+
+### Usage
 
 ```bash
 bk [command] -h
 ```
 
-## Commands
-
-#### touch
+### touch
 > create empty, change access or modification time
 
 Usage

@@ -1,5 +1,8 @@
 # BK's CLI
 
+## Prerequisites
+Node 12+
+
 ## Installation
 
 ### Option 1 - Install as global npm package
